@@ -1,0 +1,8 @@
+strawberry
+lemon
+orange
+carrot
+plum
+watermelon
+banana
+pear
